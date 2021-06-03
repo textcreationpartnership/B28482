@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant dissenters letany· Occasioned by a late pamphlet falsly call'd, The loyal letany</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28482</idno><idno type="EEBO-CITATION">99890810</idno>
+  <idno type="VID">200702</idno>
+  <idno type="EEBO-PROQUEST">2240912307</idno>
+  
+            <idno type="OCLC"> 11893709</idno>
+            <idno type="STC">Wing P3831</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1872.a.1.[148]</idno>
+            <idno type="STC">ESTC R6235</idno>
+            <idno type="PROQUEST">ocm99890810</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890810e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200702)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A7:2[199])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant dissenters letany· Occasioned by a late pamphlet falsly call'd, The loyal letany</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Verse: "From Rom's [sic] tiranizing o'r kingdomes and Kings".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Loyal letany --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="verse__mock_litany">
+            <pb facs="tcp:200702:1"/>
+            <head>THE Protestant Dissenters LETANY.</head>
+            <head type="sub">Occasioned by a late Pamphlet falsly call'd, <hi>The Loyal Letany</hi>
+            </head>
+            <lg>
+               <l>FRom <hi>Rom's</hi> Tiranizing o'r Kingdomes and Kings</l>
+               <l>From Religion that Murther and Massacre brings</l>
+               <l>From <hi>TREASON</hi> styl'd <hi>Merit</hi> and such dreadful things.</l>
+               <l>
+                  <hi>Libera nos Domine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Poysoning of Princes i'th bles'd Sacrament</l>
+               <l>From Eighty Eight's Torments that <hi>Spain</hi> did invent</l>
+               <l>From Blowing up Parliaments by Hell's consent</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From whipping of Monarchs to please a base Monk</l>
+               <l>From those who at Villanies never yet shrunk</l>
+               <l>And from the vile Strumpet with Saints blood made drunk</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From <hi>Piedmont, Bohemia</hi> and <hi>Waldences</hi> fate</l>
+               <l>From such as do strive to raise War and Debate</l>
+               <l>And with burning of Martyrs themselves Recreate</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Damn'd Inquisitions and Massacring Knives</l>
+               <l>From deflowring our Daughters and Ravishing our Wives</l>
+               <l>From ripping up Wombs to destroy Infants Lives</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Firing of Cities to quench them with blood</l>
+               <l>From Adoring of Pictures and Statues of Wood</l>
+               <l>From praying to Saints and Blaspheming of God</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Marean dayes and a Smith field Rounds Sweat,</l>
+               <l>From the Stakes and the Faggotts that there would be set</l>
+               <l>If the <hi>Pope</hi> and the <hi>Papist</hi> the upper Hand get.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Jesuits who still in close Ambush do lye,</l>
+               <l>From such who known truth to the last do deny,</l>
+               <l>And in hopes of Saintship do most Perjur'd dye.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:200702:2"/>
+               <l>From <hi>Godfrey's</hi> sad usage, and that which was meant</l>
+               <l>To conforming Protestants, and those that discent,</l>
+               <l>From three Nations bleeding to give <hi>Rome</hi> Content.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Bos<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m friends <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at our <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ives w<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld betray,</l>
+               <l>From suc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as their De<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rest Relations you'd slay;</l>
+               <l>From those the <hi>Pope's</hi> Cur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e can Compell to obey</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From such as their trust, with their Conscience do sell,</l>
+               <l>From TORY'S whose work's to perswade us, Rebell:</l>
+               <l>And from all those who of Popery smell.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From evil Counsellors, if such there be,</l>
+               <l>From those that wou'd Conscience-chain which shou'd be free,</l>
+               <l>From all Superstition and Idolatry</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Plotts and Sham-Plotts good Subjects to wrong</l>
+               <l>From those who to wade in our blood do think long</l>
+               <l>From Mass and from turning our Prayers to a Song.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From fashions of <hi>France</hi> and their murthering Arms,</l>
+               <l>From Secret Impoysonings, and Mischevious Charms,</l>
+               <l>From Roman Locusts, with which <hi>England</hi> Swarms.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From all the Devices the Pope can contrive,</l>
+               <l>From those that do seek to devour us alive:</l>
+               <l>From all those Villains that by Murther trive.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From our Worship being turn'd into noise and loud Cants,</l>
+               <l>From Bowing to Pictures and praying to Saints,</l>
+               <l>From making a God of what each Block-head Paints.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From smiling upon us and cutting our Throats,</l>
+               <l>From such as a Saintship for Treason <hi>Rome</hi> Votes:</l>
+               <l>From those who from side to side still shifts their Coats.</l>
+               <l>
+                  <hi>Lib. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Romish Merchants Extortioning Jews,</l>
+               <l>Who deceiv'd us of Coyn to maintain the Popes Stews,</l>
+               <l>And from those the Oath of Supreamacy refuse.</l>
+               <l>
+                  <hi>Lib. &amp;c</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. B.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
